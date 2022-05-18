@@ -1,0 +1,18 @@
+.App{
+  text-align: center;
+}
+.box{
+border-radius: 25px;
+}
+form{
+  border: 1px solid black;
+  height: 150px;width: 350px;
+  text-align: center;
+  justify-content: center;
+  padding-top: 50px;
+  position: absolute;left: 550px;
+  position:absolute;top: 100px;
+}
+body{
+  background-color: aqua;
+}
